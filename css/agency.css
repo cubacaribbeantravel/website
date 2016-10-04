@@ -227,7 +227,7 @@ fieldset[disabled] .btn-xl.active {
 
 @media (min-width: 768px) {
   .navbar-custom.affix {
-    background-color: darkred;
+    background-color: #fed136;
     padding: 10px 0;
     padding-bottom: 50px;
   }
@@ -238,7 +238,7 @@ fieldset[disabled] .btn-xl.active {
 
 @media (max-width: 768px) {
   .navbar-custom {
-      background-color: darkred;
+      background-color: #fed136;
       padding-bottom: 50px;
   }
 }
